@@ -1,0 +1,10 @@
+{
+    "maintoken": "your-token-here",
+    "footer" : "Made by TheDiamondMurder",
+    "prefix":"l!",
+    "colors" : {
+        "green" : "#00ff09",
+        "red" : "#ff0000",
+        "cyan" : "#00e5ff"
+    }
+}

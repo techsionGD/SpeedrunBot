@@ -1,0 +1,20 @@
+{
+  "name": "v1.0",
+  "version": "1.0.0",
+  "description": "ok",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "discord.js-pagination": "^1.0.3",
+    "firebase": "^8.2.10",
+    "firebase-admin": "^9.5.0",
+    "humanize-duration": "^3.25.1",
+    "keygenerator": "^1.0.4",
+    "random": "^3.0.3"
+  }
+}
